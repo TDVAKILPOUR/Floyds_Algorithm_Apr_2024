@@ -20,6 +20,7 @@ def floyd(graph):
     return distance
 
 
+
 if __name__ == "__main__":
     INF = np.inf
 
