@@ -5,9 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="003ff784-9795-40bf-b38c-06f9d5384675" name="Changes" comment="Setting up version 1 of my floyds recursive algorithm">
-      <change afterPath="$PROJECT_DIR$/Floyds_Algoritm_v2.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Floyds_Algorithm_recursive_v1.py" beforeDir="false" afterPath="$PROJECT_DIR$/Floyds_Algorithm_recursive_v1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Floyds_Algorithm_recursive_v2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Floyds_Algorithm_recursive_v2_Unittest.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Performance_test_recurrive_vs_Iterative.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -103,7 +103,31 @@
       <option name="project" value="LOCAL" />
       <updated>1712847521761</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Setting up version 1 of my floyds recursive algorithm">
+      <option name="closed" value="true" />
+      <created>1712943634008</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1712943634008</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Setting up version 1 of my floyds recursive algorithm">
+      <option name="closed" value="true" />
+      <created>1712943665366</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1712943665366</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Setting up version 1 of my floyds recursive algorithm">
+      <option name="closed" value="true" />
+      <created>1712943720226</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1712943720226</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
