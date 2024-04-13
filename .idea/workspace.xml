@@ -4,9 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="003ff784-9795-40bf-b38c-06f9d5384675" name="Changes" comment="Setting up version 1 of my floyds recursive algorithm">
+    <list default="true" id="003ff784-9795-40bf-b38c-06f9d5384675" name="Changes" comment="slight amendment of wording">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Floyds_Algorithm_recursive_v2_Unittest.py" beforeDir="false" afterPath="$PROJECT_DIR$/Floyds_Algorithm_recursive_v2_Unittest.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Performance_test_recurrive_vs_Iterative.py" beforeDir="false" afterPath="$PROJECT_DIR$/Performance_test_recurrive_vs_Iterative.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -46,12 +46,14 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Python tests.Python tests in Floyds_Algorithm_recursive_v1_Unittest.py.executor": "Run",
     "Python tests.Python tests in Floyds_Algorithm_recursive_v2_Unittest.py.executor": "Run",
     "Python.Floyds_Algorithm_recursive_v1.executor": "Run",
     "Python.Floyds_Algorithm_recursive_v2_Unittest.executor": "Run",
     "Python.Floyds_Algoritm_v2.executor": "Run",
     "Python.Geeksforgeeks_Floyds_Algorithm.executor": "Run",
     "Python.Impertive_Iterative_Floyds_Algorithm.executor": "Run",
+    "Python.Performance_test_recurrive_vs_Iterative.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master"
   }
@@ -128,13 +130,31 @@
       <option name="project" value="LOCAL" />
       <updated>1712943720226</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="first unit testing of floyd code">
+      <option name="closed" value="true" />
+      <created>1713015061145</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1713015061145</updated>
+    </task>
+    <task id="LOCAL-00009" summary="slight amendment of wording">
+      <option name="closed" value="true" />
+      <created>1713015107090</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1713015107090</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Imperative Iterative Floyds Algorithm slightly amended using numpy and not itertools" />
     <MESSAGE value="Adding in the &quot;geeks for geeks&quot; code provided by the university of liverpool, in addition the code i seperately created," />
     <MESSAGE value="Setting up version 1 of my floyds recursive algorithm" />
-    <option name="LAST_COMMIT_MESSAGE" value="Setting up version 1 of my floyds recursive algorithm" />
+    <MESSAGE value="first unit testing of floyd code" />
+    <MESSAGE value="slight amendment of wording" />
+    <option name="LAST_COMMIT_MESSAGE" value="slight amendment of wording" />
   </component>
 </project>
