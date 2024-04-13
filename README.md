@@ -1,4 +1,4 @@
-Title and Subtitl0e
+**Floyds Algorithm**
 Introduction and background to project paragraph
 Directory and diagram structure
 Installation instructions user
