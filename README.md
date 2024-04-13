@@ -1,4 +1,4 @@
-**Floyds Algorithm**
+**Floyds Algorithm** - Iterative and Recursive
 Introduction and background to project paragraph
 Directory and diagram structure
 Installation instructions user
