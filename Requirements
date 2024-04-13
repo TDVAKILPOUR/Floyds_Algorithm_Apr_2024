@@ -1,0 +1,16 @@
+Requirements Document:
+
+The purpose of this project is two fold
+
+1. To create iterative and recursive functions using floyds algorithm to find the shortest path between all
+pairs of vertices in weighted graph.
+
+2. Use performance test to check the code works and compare the performance of both methods.
+
+Key Elements (usually in this order):
+Product Owner: TDVAKILPOUR
+Objective & Background: Explains project purpose and desired outcomes.
+
+Key Requirements:
+
+Any user will need to have python installed, as well as numpy extension too.
