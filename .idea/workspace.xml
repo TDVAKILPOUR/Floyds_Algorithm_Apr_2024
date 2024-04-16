@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="003ff784-9795-40bf-b38c-06f9d5384675" name="Changes" comment="Amended codes, and directory structure as well as changing source data">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Requirements" beforeDir="false" afterPath="$PROJECT_DIR$/Requirements" afterDir="false" />
-    </list>
+    <list default="true" id="003ff784-9795-40bf-b38c-06f9d5384675" name="Changes" comment="Requirements added" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -177,7 +174,15 @@
       <option name="project" value="LOCAL" />
       <updated>1713023639690</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="Requirements added">
+      <option name="closed" value="true" />
+      <created>1713027898978</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1713027898978</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -189,6 +194,7 @@
     <MESSAGE value="recursive performance test" />
     <MESSAGE value="iterative performance test" />
     <MESSAGE value="Amended codes, and directory structure as well as changing source data" />
-    <option name="LAST_COMMIT_MESSAGE" value="Amended codes, and directory structure as well as changing source data" />
+    <MESSAGE value="Requirements added" />
+    <option name="LAST_COMMIT_MESSAGE" value="Requirements added" />
   </component>
 </project>
