@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="003ff784-9795-40bf-b38c-06f9d5384675" name="Changes" comment="Requirements added" />
+    <list default="true" id="003ff784-9795-40bf-b38c-06f9d5384675" name="Changes" comment="changing name of file">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -41,27 +43,27 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Python tests.Python tests in Floyds_Algorithm_recursive_v1_Unittest.py.executor": "Run",
-    "Python tests.Python tests in Floyds_Algorithm_recursive_v2_Unittest.py.executor": "Run",
-    "Python.Floyds_Algorithm_recursive_v1.executor": "Run",
-    "Python.Floyds_Algorithm_recursive_v2.executor": "Run",
-    "Python.Floyds_Algorithm_recursive_v2_Unittest.executor": "Run",
-    "Python.Floyds_Algoritm_v2.executor": "Run",
-    "Python.Geeksforgeeks_Floyds_Algorithm.executor": "Run",
-    "Python.Graph_data.executor": "Run",
-    "Python.Impertive_Iterative_Floyds_Algorithm.executor": "Run",
-    "Python.Iterative_memory_test.executor": "Run",
-    "Python.Performance_test_Iterative.executor": "Run",
-    "Python.Performance_test_recurrive_vs_Iterative.executor": "Run",
-    "Python.Performance_test_recusive.executor": "Run",
-    "Python.Recursive_memory_test.executor": "Run",
-    "Python.recursive_v2.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Python tests.Python tests in Floyds_Algorithm_recursive_v1_Unittest.py.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests in Floyds_Algorithm_recursive_v2_Unittest.py.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Floyds_Algorithm_recursive_v1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Floyds_Algorithm_recursive_v2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Floyds_Algorithm_recursive_v2_Unittest.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Floyds_Algoritm_v2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Geeksforgeeks_Floyds_Algorithm.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Graph_data.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Impertive_Iterative_Floyds_Algorithm.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Iterative_memory_test.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Performance_test_Iterative.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Performance_test_recurrive_vs_Iterative.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Performance_test_recusive.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Recursive_memory_test.executor&quot;: &quot;Run&quot;,
+    &quot;Python.recursive_v2.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;
   }
-}]]></component>
+}</component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -182,7 +184,15 @@
       <option name="project" value="LOCAL" />
       <updated>1713027898978</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="changing name of file">
+      <option name="closed" value="true" />
+      <created>1713284893641</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1713284893641</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -195,6 +205,7 @@
     <MESSAGE value="iterative performance test" />
     <MESSAGE value="Amended codes, and directory structure as well as changing source data" />
     <MESSAGE value="Requirements added" />
-    <option name="LAST_COMMIT_MESSAGE" value="Requirements added" />
+    <MESSAGE value="changing name of file" />
+    <option name="LAST_COMMIT_MESSAGE" value="changing name of file" />
   </component>
 </project>
