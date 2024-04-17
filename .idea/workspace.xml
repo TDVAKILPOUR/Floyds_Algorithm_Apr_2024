@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="003ff784-9795-40bf-b38c-06f9d5384675" name="Changes" comment="Requirements added" />
+    <list default="true" id="003ff784-9795-40bf-b38c-06f9d5384675" name="Changes" comment="Requirements added">
+      <change beforePath="$PROJECT_DIR$/Performance_test_Iterative.py" beforeDir="false" afterPath="$PROJECT_DIR$/Performance_test_Imperative.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -18,6 +20,12 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="PREVIEW_PUSH_PROTECTED_ONLY" value="true" />
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="version2" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="GitHubPullRequestSearchHistory">{
@@ -59,7 +67,8 @@
     "Python.Recursive_memory_test.executor": "Run",
     "Python.recursive_v2.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master"
+    "git-widget-placeholder": "master",
+    "last_opened_file_path": "C:/Users/soori/PycharmProjects/Floyds_Algorithm_Apr_2024"
   }
 }]]></component>
   <component name="SharedIndexes">
