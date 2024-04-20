@@ -1,6 +1,6 @@
 import datetime
 import timeit
-from Floyds_Algorithm_recursive_v2 import floyd
+from iterative_Floyds_Algorithm import floyd
 from Graph_data import graph
 
 """ This module looks at the final version (v2) of 

@@ -5,7 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="003ff784-9795-40bf-b38c-06f9d5384675" name="Changes" comment="Requirements added">
-      <change beforePath="$PROJECT_DIR$/Performance_test_Iterative.py" beforeDir="false" afterPath="$PROJECT_DIR$/Performance_test_Imperative.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Performance_Test_iterative1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Impertive_Floyds_Algorithm.py" beforeDir="false" afterPath="$PROJECT_DIR$/iterative_Floyds_Algorithm.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Performance_test_Imperative.py" beforeDir="false" afterPath="$PROJECT_DIR$/Performance_test_Iterative.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Performance_test_recusive.py" beforeDir="false" afterPath="$PROJECT_DIR$/Performance_test_recusive.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -59,8 +63,11 @@
     "Python.Floyds_Algoritm_v2.executor": "Run",
     "Python.Geeksforgeeks_Floyds_Algorithm.executor": "Run",
     "Python.Graph_data.executor": "Run",
+    "Python.Impertive_Floyds_Algorithm.executor": "Run",
     "Python.Impertive_Iterative_Floyds_Algorithm.executor": "Run",
     "Python.Iterative_memory_test.executor": "Run",
+    "Python.Performance_Test_iterative1.executor": "Run",
+    "Python.Performance_test_Imperative.executor": "Run",
     "Python.Performance_test_Iterative.executor": "Run",
     "Python.Performance_test_recurrive_vs_Iterative.executor": "Run",
     "Python.Performance_test_recusive.executor": "Run",
