@@ -7,7 +7,8 @@ nodes on a graph.
 
 **Directory and diagram structure**
 
-![image](https://github.com/TDVAKILPOUR/Floyds_Algorithm_Apr_2024/assets/165081555/aa51fe08-7ae1-48d3-8c42-cb6832f28bd4)
+![image](https://github.com/TDVAKILPOUR/Floyds_Algorithm_Apr_2024/assets/165081555/d9aad819-3542-46e8-8c84-f43c95f8aa68)
+
 
 
 **Installation instructions user**
