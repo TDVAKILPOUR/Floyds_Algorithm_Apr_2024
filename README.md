@@ -6,8 +6,8 @@ This repository contains a various python codes utilising Floyds Algorithm. Floy
 nodes on a graph.
 
 **Directory and diagram structure**
+![image](https://github.com/TDVAKILPOUR/Floyds_Algorithm_Apr_2024/assets/165081555/cb0428eb-2196-4203-8e24-b985b8f50705)
 
-![image](https://github.com/TDVAKILPOUR/Floyds_Algorithm_Apr_2024/assets/165081555/d598b5c6-17cc-419c-9e06-7bdd87084d80)
 
 
 
